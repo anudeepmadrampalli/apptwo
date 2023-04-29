@@ -1,6 +1,6 @@
 services:
   appone:
-    getaccounturl: http://localhost:8081/account
+    getaccounturl: https://localhost:8081/account
 
 server:
   port: 8082
